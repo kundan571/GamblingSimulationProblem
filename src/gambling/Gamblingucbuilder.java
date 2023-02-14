@@ -8,7 +8,7 @@ public class Gamblingucbuilder {
     public static void main(String[] args) {
         Gamblingucbuilder gamble = new Gamblingucbuilder();
         double winLoose;
-        int totalDays = 20;
+        int totalDays = 30;
         int endValue=0;
         int win=0,loss=0;
         int amount = STAKE_PER_DAY;
